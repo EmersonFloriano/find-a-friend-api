@@ -2,14 +2,19 @@
 
 Find a freind
 
+## Descrição
+Esta API está sendo criada para estudo de Node e Fastify.
+
+Ela deve ser capaz de fornecer dados para um front-end que lista vários animais de estimação que estão disponíveis para adoção.
+
 ## RFs (Requisitos funcionais)
 
-- [ ] Deve ser possível cadastrar um pet
-- [ ] Deve ser possível listar todos os pets disponíveis para adoção em uma cidade
-- [ ] Deve ser possível filtrar pets por suas características
-- [ ] Deve ser possível visualizar detalhes de um pet para adoção
-- [ ] Deve ser possível se cadastrar como uma ORG
-- [ ] Deve ser possível realizar login como uma ORG
+- [ ] Deve cadastrar um pet
+- [ ] Deve listar todos os pets disponíveis para adoção em uma cidade
+- [ ] Deve filtrar pets por suas características
+- [ ] Deve visualizar detalhes de um pet para adoção
+- [ ] Deve se cadastrar como uma ORG
+- [ ] Deve realizar login como uma ORG
 
 ## RNs (Regras de negócio)
 

@@ -1,5 +1,5 @@
 import fastify from 'fastify'
-import { env } from './index'
+import { env } from '@/env/index'
 
 const app = fastify()
 
